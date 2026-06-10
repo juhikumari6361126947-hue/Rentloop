@@ -1,0 +1,11 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Default rental item image</title>
+  <desc id="desc">A neutral illustration used when a rental item photo is unavailable.</desc>
+  <rect width="800" height="600" fill="#F5F7FB"/>
+  <rect x="80" y="72" width="640" height="456" rx="28" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="4"/>
+  <rect x="128" y="120" width="544" height="300" rx="20" fill="#E2E8F0"/>
+  <path d="M168 390L292 266C304 254 324 254 336 266L408 338L448 298C460 286 480 286 492 298L632 438H168V390Z" fill="#94A3B8"/>
+  <circle cx="576" cy="198" r="48" fill="#0F766E" fill-opacity="0.85"/>
+  <rect x="224" y="460" width="352" height="24" rx="12" fill="#CBD5E1"/>
+  <rect x="304" y="496" width="192" height="16" rx="8" fill="#E2E8F0"/>
+</svg>
